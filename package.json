@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-server": "webpack-dev-server"
+  },
+  "author": "George Giagkos",
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "typescript": "^4.3.5",
+    "webpack": "^5.41.1",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "dependencies": {}
+}
